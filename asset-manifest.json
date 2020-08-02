@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb957505.chunk.css",
-    "main.js": "/static/js/main.54fd7562.chunk.js",
-    "main.js.map": "/static/js/main.54fd7562.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e44f51db.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e44f51db.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.a50280bc.chunk.js": "/static/js/2.a50280bc.chunk.js",
-    "static/js/2.a50280bc.chunk.js.map": "/static/js/2.a50280bc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.de88fcff2b70ab933d35f69fc3f64b3e.js": "/precache-manifest.de88fcff2b70ab933d35f69fc3f64b3e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.cb957505.chunk.css.map": "/static/css/main.cb957505.chunk.css.map",
-    "static/js/2.a50280bc.chunk.js.LICENSE.txt": "/static/js/2.a50280bc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Blanka-Regular.d5acacaf.woff"
+    "main.css": "/brenthoresrobodex/static/css/main.5f09dfb1.chunk.css",
+    "main.js": "/brenthoresrobodex/static/js/main.9ac338b5.chunk.js",
+    "main.js.map": "/brenthoresrobodex/static/js/main.9ac338b5.chunk.js.map",
+    "runtime-main.js": "/brenthoresrobodex/static/js/runtime-main.c395ca7c.js",
+    "runtime-main.js.map": "/brenthoresrobodex/static/js/runtime-main.c395ca7c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/brenthoresrobodex/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a50280bc.chunk.js": "/brenthoresrobodex/static/js/2.a50280bc.chunk.js",
+    "static/js/2.a50280bc.chunk.js.map": "/brenthoresrobodex/static/js/2.a50280bc.chunk.js.map",
+    "index.html": "/brenthoresrobodex/index.html",
+    "precache-manifest.a0f5de19008709b7bfed8a6f17506db4.js": "/brenthoresrobodex/precache-manifest.a0f5de19008709b7bfed8a6f17506db4.js",
+    "service-worker.js": "/brenthoresrobodex/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/brenthoresrobodex/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5f09dfb1.chunk.css.map": "/brenthoresrobodex/static/css/main.5f09dfb1.chunk.css.map",
+    "static/js/2.a50280bc.chunk.js.LICENSE.txt": "/brenthoresrobodex/static/js/2.a50280bc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/brenthoresrobodex/static/media/Blanka-Regular.d5acacaf.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e44f51db.js",
+    "static/js/runtime-main.c395ca7c.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.a50280bc.chunk.js",
-    "static/css/main.cb957505.chunk.css",
-    "static/js/main.54fd7562.chunk.js"
+    "static/css/main.5f09dfb1.chunk.css",
+    "static/js/main.9ac338b5.chunk.js"
   ]
 }
